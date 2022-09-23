@@ -1,93 +1,103 @@
-<h1 align="center">Hey There 👋, I'm <a href="https://www.linkedin.com/in/ankittojha"> Sunny </a></h1>
-<!-- #  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Ankit Ojha](https://www.linkedin.com/in/ankittojha) !!  -->
-
-<h3 align="center">A passionate software developer from India</h3>
-
-<!--
-[![Github](https://img.shields.io/github/followers/itsunny01-code?label=Follow&style=social)](https://github.com/itsunny01-code)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsunny01-code&label=Profile%20views&color=0e75b6&style=flat" alt="itsunny01-code" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsunny01-code" alt="itsunny01-code" /></a> </p>
- -->
- 
- 😄 Pronouns: He/Him <br/>
-
-🎓 I’m currently pursuing my Bachelors in Information Technology and have a strong interest in Coding💙 <br />
-
-✨ I’m interested in Open Source, Web Development, UI/UX and Programming. <br/>
-
-💬 I would love to talk about internship opportunities starting December 2022. </br>
-
-💡 I am currently focusing on Data Structures and Algorithm in Java and DevOps. A beginner contributor at Open Source. <br/>
-
-💞️ I’m looking to collaborate on any open source platform. <br />
-
-📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
+<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Aadarsh!</h1>
+<h3 align="center">I'm a AI-Robotics Engineer, Developer, and Teacher!!</h3>	 
+	 
+## 🌐 Socials
+<br/>
+<!-- <a href="https://twitter.com/intent/user?screen_name=nitinn787">
+  <img align="left" width="32px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
+</a> -->
+<a href="https://www.linkedin.com/in/aadarsh-raj-60676a191/">
+  <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+</a>
+<a href="mailto:aadarshraj4321@gmail.com">
+  <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+</a>
+<!-- <a href="https://instagram.com/_nitin787/">
+  <img align="left" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
+</a> -->
+<!-- <a href="https://www.youtube.com/c/MrBioNik">
+  <img align="left" width="32px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
+</a> -->
+<!-- <a href="https://discord.com/users/947741502304550912">
+  <img align="left" width="32px" src="https://cdn.discordapp.com/attachments/1005490731781193758/1005499935329878107/discord.png"/>
+</a> -->
 
 <br/>
-<h2>
-    Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
-</h2>
-<!-- <a href="https://www.linkedin.com/in/ankittojha">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
- </a>  -->
-<a href="mailto:ankitojha1409@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
-</a>
-<a href="https://twitter.com/itsunny01-code">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
-</a>
-<a href="https://instagram.com/itsunny01-code">
-  <img src="https://img.shields.io/badge/Instagram-EC7063?style=for-the-badge&logo=instagram&logoColor=white"   />
-</a>
-<!-- <a href="https://...medium.com/">
-  <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
-</a> -->
-<br> <br>
+<br/>
 
-<hr/>
-<h2> 🥞 Tech Stack</h2>
-<p align="center">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="React" src="https://img.shields.io/badge/nodejs-%23f2ca61.svg?style=for-the-badge&logo=nodejs&logoColor=%2361DAFB"/>
-<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind css-%23fca9ae.svg?style=for-the-badge&logo=tailwind-css&logoColor=140200"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%23e4626b.svg?style=for-the-badge&logo=java&logoColor=140200"/>
-<img alt="Python" src="https://img.shields.io/badge/python-%23fca9ae.svg?style=for-the-badge&logo=python&logoColor=140200"/>
-<img alt="Github" src="https://img.shields.io/badge/github-%23e4626b.svg?style=for-the-badge&logo=github&logoColor=140200"/>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-f2ca61.svg?style=for-the-badge&logo=visual-studio-code&logoColor=140200"/>
-<!-- <img alt="Figma" src="https://img.shields.io/badge/figma-%23ffd2ce.svg?style=for-the-badge&logo=figma&logoColor=140200" /> -->
-<img alt="Canva" src="https://img.shields.io/badge/Canva-f2ca61.svg?style=for-the-badge&logo=canva&logoColor=140200"/>
-<img alt="Figma" src="https://img.shields.io/badge/figma-%23e4626b.svg?style=for-the-badge&logo=figma&logoColor=140200" />
-<!-- <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe after effects-%23fca9ae.svg?style=for-the-badge&logo=Adobe-after-effects&logoColor=140200" /> -->
-  </p>
-<br>
+# 💫 About Me :
+<br/>
 
-<!-- ## Stats 📈 -->
-<details>
-	<summary> My GitHub Stats</summary>
-<br>
-<p align="center">
-<a href="https://github.com/itsunny01-code">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=itsunny01-code&count_private=true&show_icons=true&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itsunny01-code&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
-	<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=itsunny01-code&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b"/>
-</a>
-</p>
+<div>
+  <ul>
+    <li>👯 I'm Looking to Collaborate on  <b>Data Science (NLP, Deep Learning), Robotics, Unity Game Development, React-Node.js, Flutter, And Open Source Projects</b></li>
+    <li>💻 I'm self taught programmer</li>
+    <li>🌱 I’m currently learning <b>Cloud Computing, Devops and DSA<b></li>
+    <li>🥅 2022 Goals: Contribute more to Open Source projects</li>
+<!--     <li>💬 Ask me anything about <a href="https://discord.com/users/947741502304550912">here</a>! I'm always open to help!</li> -->
+    <li>😄 Pronouns: <b>He/Him</b> 💁‍</li>
+    <li>⚡ Fun fact: Richard Hendricks, Erlich Bachman, Gilfoyle, Dinesh, Jared, Big Head</li>
+</ul>
+</div>
+
+<br />
+<div align="left">
+<h3 align="left">Languages and Tools:</h3> 
+<br/>
+<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/dusk/344/unity.png"></code>
+
+<!-- <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"></code> -->
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/fluency/344/node-js.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/color/344/flutter.png"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/color/344/c-sharp-logo-2.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/color/344/python--v1.png"></code>
+
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" width="40" src="https://github.com/github/explore/raw/main/topics/css/css.png"></code>
+<code><img height="40" width="40" src="https://cdn.discordapp.com/attachments/1005490731781193758/1005499547650367508/docker.png"></code>
+<!-- <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code> -->
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
+
+
+
+
+<!--END_SECTION:activity-->
+
 </details>
 
-## Contribution Graph 📊
+<br />
+<br />
 
-<img
-     src="https://activity-graph.herokuapp.com/graph?username=itsunny01-code&theme=chartreuse-dark"
-     />
----
+<!-- ## Let's chat -->
+<!-- <br/> -->
+<!-- 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/947741502304550912?theme=dark&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=That's%20what%20she%20said,%20Nothing%20you%20idiots%20she's%20dead...)](https://discord.com/users/947741502304550912)
+ -->
+<br/>
+<br/>
+<div align="center">
+ <h3>Some Cool Github Stats:</h3> 
+</div>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aadarshraj4321&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aadarshraj4321&theme=tokyonight" />
+</p>
+
+<!-- [twitter]: https://twitter.com/nitinn787
+[youtube]: https://www.youtube.com/c/MrBioNik
+[instagram]: https://www.instagram.com/_nitin787/ -->
+[linkedin]: https://www.linkedin.com/in/aadarsh-raj-60676a191/
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
-<!-- ![GitHub metrics](https://metrics.lecoq.io/itsunny01-code)   -->
