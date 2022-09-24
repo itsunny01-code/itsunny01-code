@@ -9,10 +9,10 @@
 <!-- <a href="https://twitter.com/intent/user?screen_name=nitinn787">
   <img align="left" width="32px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
 </a> -->
-<a href="https://www.linkedin.com/in/aadarsh-raj-60676a191/">
+<a href="https://www.linkedin.com/in/sunny-mishra-4a8a29218/">
   <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
-<a href="mailto:aadarshraj4321@gmail.com">
+<a href="mailto:contactsunny07@gmail.com">
   <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 <!-- <a href="https://instagram.com/_nitin787/">
