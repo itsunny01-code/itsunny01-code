@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Sunny!</h1>
-<h3 align="center">I'm a AI-Robotics Engineer, Developer, and Teacher!!</h3>	 
+<h3 align="center">I'm a frontend Developer, and Teacher!!</h3>	 
 	 
 ## 🌐 Socials
 <br/>
