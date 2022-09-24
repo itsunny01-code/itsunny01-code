@@ -33,7 +33,7 @@
 
 <div>
   <ul>
-    <li>👯 I'm Looking to Collaborate on  <b>Data Science (NLP, Deep Learning), Robotics, Unity Game Development, React-Node.js, Flutter, And Open Source Projects</b></li>
+    <li>👯 I'm Looking to Collaborate on  <b>Frontend (HTML,CSS,BOOTSTRAP,TALWIND CSS, JAVASCRIPT) React-Node.js, Flutter, And Open Source Projects</b></li>
     <li>💻 I'm self taught programmer</li>
     <li>🌱 I’m currently learning <b>Cloud Computing, Devops and DSA<b></li>
     <li>🥅 2022 Goals: Contribute more to Open Source projects</li>
