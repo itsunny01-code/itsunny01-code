@@ -87,8 +87,8 @@
 </div>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aadarshraj4321&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aadarshraj4321&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=itsunny01-code&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsunny01-code&theme=tokyonight" />
 </p>
 
 <!-- [twitter]: https://twitter.com/nitinn787
