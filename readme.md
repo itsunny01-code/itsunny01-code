@@ -39,7 +39,7 @@
     <li>🥅 2022 Goals: Contribute more to Open Source projects</li>
 <!--     <li>💬 Ask me anything about <a href="https://discord.com/users/947741502304550912">here</a>! I'm always open to help!</li> -->
     <li>😄 Pronouns: <b>He/Him</b> 💁‍</li>
-    <li>⚡ Fun factS: Richard Hendricks, Erlich Bachman, Gilfoyle, Dinesh, Elon Musk, Big Head</li>
+    <li>⚡ Fun facts: Richard Hendricks, Erlich Bachman, Gilfoyle, Dinesh, Elon Musk, Big Head</li>
 </ul>
 </div>
 
