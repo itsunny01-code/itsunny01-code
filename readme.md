@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> Hellow, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Sunny!</h1>
@@ -33,7 +33,7 @@
 
 <div>
   <ul>
-    <li>👯 I'm Looking to Collaborate on  <b>Full Stack React-Node.js, Flutter, And Open Source Projects</b></li>
+    <li>👯 I'm Looking to Collaborate on  <b>Full Stack ( React-Node.js ), Flutter, And Open Source Projects</b></li>
     <li>💻 I'm self taught programmer</li>
     <li>🌱 I’m currently learning <b>Cloud Computing, Unity and Blender<b></li>
     <li>🥅 2022 Goals: Contribute more to Open Source projects</li>
