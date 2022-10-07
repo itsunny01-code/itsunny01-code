@@ -33,7 +33,7 @@
 
 <div>
   <ul>
-    <li>👯 I'm Looking to Collaborate on  <b>Frontend (HTML,CSS,BOOTSTRAP,TALWIND CSS, JAVASCRIPT) React-Node.js, Flutter, And Open Source Projects</b></li>
+    <li>👯 I'm Looking to Collaborate on  <b>Full Stack React-Node.js, Flutter, And Open Source Projects</b></li>
     <li>💻 I'm self taught programmer</li>
     <li>🌱 I’m currently learning <b>Cloud Computing, Unity and Blender<b></li>
     <li>🥅 2022 Goals: Contribute more to Open Source projects</li>
