@@ -1,14 +1,14 @@
 <h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Aryan Narayan!</h1>
+         width="45" /> I'm Sunny!</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 <!--
 <img align = "right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 //-->
 
 <img align = "right" alt="coding" width="280" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-788&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-788" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsunny01-code&label=Profile%20views&color=0e75b6&style=flat" alt="itsunny01-code" /> </p>
 
 - 🔭 I’m currently working on [Car Rental Portal](https://github.com/Aryan-788/Car-Rental-Portal)
 
@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack and Open Source Projects**
 
-- 📫 How to reach me **aryanshrivastava788@gmail.com**
+- 📫 How to reach me **contactsunny07@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KbyZ_wWYLVw59EkFc4R7IFgaf-YV8zYb/view?usp=sharing](https://drive.google.com/file/d/1KbyZ_wWYLVw59EkFc4R7IFgaf-YV8zYb/view?usp=sharing)
 
