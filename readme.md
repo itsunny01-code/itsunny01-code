@@ -1,103 +1,39 @@
-<h1 align="center"> Helloo, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Sunny!</h1>
-<h3 align="center">I'm a Full Stack Developer, and Teacher!!</h3>	 
-	 
-## 🌐 Socials
-<br/>
-<!-- <a href="https://twitter.com/intent/user?screen_name=nitinn787">
-  <img align="left" width="32px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
-</a> -->
-<a href="https://www.linkedin.com/in/sunny-mishra-4a8a29218/">
-  <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
-</a>
-<a href="mailto:contactsunny07@gmail.com">
-  <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-</a>
-<!-- <a href="https://instagram.com/_nitin787/">
-  <img align="left" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
-</a> -->
-<!-- <a href="https://www.youtube.com/c/MrBioNik">
-  <img align="left" width="32px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
-</a> -->
-<!-- <a href="https://discord.com/users/947741502304550912">
-  <img align="left" width="32px" src="https://cdn.discordapp.com/attachments/1005490731781193758/1005499935329878107/discord.png"/>
-</a> -->
+         width="45" /> I'm Aryan Narayan!</h1>
+<h3 align="center">A passionate Full stack developer from India</h3>
+<!--
+<img align = "right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+//-->
 
-<br/>
-<br/>
+<img align = "right" alt="coding" width="280" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-788&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-788" /> </p>
 
-# 💫 About Me :
-<br/>
+- 🔭 I’m currently working on [Car Rental Portal](https://github.com/Aryan-788/Car-Rental-Portal)
 
-<div>
-  <ul>
-    <li>👯 I'm Looking to Collaborate on  <b>Full Stack ( React-Node.js ), Flutter, And Open Source Projects</b></li>
-    <li>💻 I'm self taught programmer</li>
-    <li>🌱 I’m currently learning <b>Cloud Computing, Unity and Blender<b></li>
-    <li>🥅 2022 Goals: Contribute more to Open Source projects</li>
-<!--     <li>💬 Ask me anything about <a href="https://discord.com/users/947741502304550912">here</a>! I'm always open to help!</li> -->
-    <li>😄 Pronouns: <b>He/Him</b> 💁‍</li>
-    <li>⚡ Fun facts: Richard Hendricks, Erlich Bachman, Binod, Dinesh, Elon Musk, Big Head</li>
-</ul>
-</div>
+- 🌱 I’m currently learning **Web Development, Cloud Computing, DSA**
 
-<br />
-<div align="left">
-<h3 align="left">Languages and Tools:</h3> 
-<br/>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/dusk/344/unity.png"></code>
+- 👯 I’m looking to collaborate on **Full Stack and Open Source Projects**
 
-<!-- <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"></code> -->
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/fluency/344/node-js.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/344/flutter.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/344/c-sharp-logo-2.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/344/python--v1.png"></code>
+- 📫 How to reach me **aryanshrivastava788@gmail.com**
 
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" width="40" src="https://github.com/github/explore/raw/main/topics/css/css.png"></code>
-<code><img height="40" width="40" src="https://cdn.discordapp.com/attachments/1005490731781193758/1005499547650367508/docker.png"></code>
-<!-- <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code> -->
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KbyZ_wWYLVw59EkFc4R7IFgaf-YV8zYb/view?usp=sharing](https://drive.google.com/file/d/1KbyZ_wWYLVw59EkFc4R7IFgaf-YV8zYb/view?usp=sharing)
 
+- ⚡ Fun fact **Richard Hendricks, Erlich Bachman, Binod, Dinesh, Elon Musk, Big Head**
 
-
-
-<!--END_SECTION:activity-->
-
-</details>
-
-<br />
-<br />
-
-<!-- ## Let's chat -->
-<!-- <br/> -->
-<!-- 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/947741502304550912?theme=dark&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=That's%20what%20she%20said,%20Nothing%20you%20idiots%20she's%20dead...)](https://discord.com/users/947741502304550912)
- -->
-<br/>
-<br/>
-<div align="center">
- <h3>Some Cool Github Stats:</h3> 
-</div>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=itsunny01-code&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsunny01-code&theme=tokyonight" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/aryan-narayan-06805a217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryan-narayan-06805a217/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/a______r_____y_____a_____n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/a______r_____y_____a_____n/" height="30" width="40" /></a>
+<a href="https://leetcode.com/aryanshrivastava788/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aryanshrivastava788/" height="30" width="40" /></a>
 </p>
 
-<!-- [twitter]: https://twitter.com/nitinn787
-[youtube]: https://www.youtube.com/c/MrBioNik
-[instagram]: https://www.instagram.com/_nitin787/ -->
-[linkedin]: https://www.linkedin.com/in/aadarsh-raj-60676a191/
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-788&show_icons=true&locale=en&layout=compact" alt="aryan-788" /></p>
 
-### Show some ❤️ by starring some of the repositories!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan-788&show_icons=true&locale=en" alt="aryan-788" /></p>
 
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-788&" alt="aryan-788" /></p>
